@@ -1,2 +1,2 @@
-# temp-lbu-repo
+# LBU-DaniilKosian
 temporary repo for anything LBU
